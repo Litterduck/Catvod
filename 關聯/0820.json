@@ -857,34 +857,34 @@
 			"type": 3
 		},
 		//{
-			"api": "csp_XBiubiu",
-			"ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXB/555dy.json",
-			"filterable": 0,
-			"key": "555电影",
-			"name": "555电影(XB)",
-			"quickSearch": 1,
-			"searchable": 1,
-			"type": 3
+			//"api": "csp_XBiubiu",
+			//"ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXB/555dy.json",
+			//"filterable": 0,
+			//"key": "555电影",
+			//"name": "555电影(XB)",
+			//"quickSearch": 1,
+			//"searchable": 1,
+			//"type": 3
 		},
 		//{
-			"api": "csp_XPathMacFilter",
-			"ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXP/jubaibai.json",
-			"filterable": 1,
-			"key": "剧白白",
-			"name": "剧白白(XPF)",
-			"quickSearch": 1,
-			"searchable": 1,
-			"type": 3
+			//"api": "csp_XPathMacFilter",
+			//"ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXP/jubaibai.json",
+			//"filterable": 1,
+			//"key": "剧白白",
+			//"name": "剧白白(XPF)",
+			//"quickSearch": 1,
+			//"searchable": 1,
+			//"type": 3
 		},
 		//{
-			"api": "csp_XPath",
-			"ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXP/骚火电影(XPF).json",
-			"filterable": 0,
-			"key": "csp_xpath_saohuotv",
-			"name": "骚火电影(XPF)",
-			"quickSearch": 1,
-			"searchable": 1,
-			"type": 3
+			//"api": "csp_XPath",
+			//"ext": "https://gitea.com/maoys/Box/raw/branch/master/MaooXP/骚火电影(XPF).json",
+			//"filterable": 0,
+			//"key": "csp_xpath_saohuotv",
+			//"name": "骚火电影(XPF)",
+			//"quickSearch": 1,
+			//"searchable": 1,
+			//"type": 3
 		},
 		{
 			"api": "csp_Kuaikan",
