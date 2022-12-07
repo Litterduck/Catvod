@@ -17,7 +17,7 @@
     "首页片单链接加后缀": "",    
     "分类起始页码": "1",
 //    "分类链接": "https://auete.org/{cateId}/{area}/index{catePg}.html",
-    "分类链接": "https://auete.org/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&year={year}",    
+    "分类链接": "https://auete.com/{cateId}/{class}/index{catePg}.html[firstPage=https://auete.com/{cateId}/{class}/index.html]",    
     "分类名称": "电影&电视剧&综艺&动漫&其他&音乐",
     "分类名称替换词": "1&2&3&4&24&39",
     "分类截取模式": "1",
